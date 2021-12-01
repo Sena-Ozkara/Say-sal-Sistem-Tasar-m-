@@ -1,4 +1,4 @@
-package digital_kodlama_1911404013_sena_özkara;
+package digital_kodlama_sena_özkara;
 import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.Collectors;
@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 
 /**
  *
- * @author Sena Özkara_19114040413_Digital_Kodlama
+ * @author Sena Özkara_Digital_Kodlama
  */
 public class Digital_kodlama_Sena_Özkara 
 {
